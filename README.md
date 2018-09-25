@@ -2,7 +2,9 @@
 
 ## Dmitry G. Anderson
 
-Hello I'm Dmitry G. Anderson Software Developer and JavaScript Enthusiast. If you prefer you can get to know me more closely by reading [my story](./my_story.md)
+Hello I'm Dmitry G. Anderson Software Developer and JavaScript Enthusiast. I very in love in JS programming and building graphical web interfaces. Since December 2016 I dropped all of my others and began training hard my hard skills in Frontend Development and JavaScript like a weightlifter on steroids with the barbell before starts. I want growing as much faster as i can and if you can load me cool js frontend stuff - I'm ready for action!
+
+*If you prefer to know more about me, just reading [my love story](./my_story.md).*
 
 ## Skills
 
