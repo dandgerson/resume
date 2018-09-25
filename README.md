@@ -17,32 +17,19 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 ## Skills
 
-* HTML / CSS
-* Sass(SCSS) / Pug
-* JavaScript / AJAX / OOP
-* Webpack / Gulp / npmScript
-* NodeJS
-* Bootstrap
-* Vue.js
-* PHP / MySQL
-* Wordpress
-* CLI
-* Photoshop
-
-### Soft Skills
-
-* English language
-* Psychology and pedagogy
-* Professional ethics and etiquette
-* Speech communication
-* Conflictology
-* Psychology of business communication
-* Public Relations
-
-### Other Skills
-
-* Blind 10-fingers typing
-* Repair of computer equipment, soldering and replacement of hardware electronic components
+| Hard Skills | Soft Skills | Other Skills |
+| ----------- | ----------- | ------------ |
+| HTML / CSS | English language | Blind 10-fingers typing |
+| Sass(SCSS) / Pug | Psychology and pedagogy | Repair of computer equipment, soldering and replacement of hardware electronic components |
+| JavaScript / AJAX / OOP | Professional ethics and etiquette | |
+| Webpack / Gulp / npmScript | Speech communication | |
+| NodeJS | Conflictology | |
+| Bootstrap | Psychology of business communication | |
+| Vue.js | Public Relations | |
+| PHP / MySQL | | |
+| Wordpress | | |
+| CLI | | |
+| Photoshop | | |
 
 ## Experience
 
