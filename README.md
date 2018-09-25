@@ -29,7 +29,7 @@ Hello I'm Dmitry G. Anderson Software Developer and JavaScript Enthusiast.
 ### Other Skills
 
 * Blind 10-fingers typing
-* Repair of computer equipment, soldering and replacement of electronic components
+* Repair of computer equipment, soldering and replacement of hardware electronic components
 
 ## Experience
 
