@@ -1,6 +1,6 @@
 # Dmitry G. Anderson
 
-![My portrait](./img/portrait.jpg)
+[![small portrait](./img/small_portrait.jpg)](./img/portrait.jpg)
 
 Hello I'm Dmitry G. Anderson Software Developer and JavaScript Enthusiast.
 
