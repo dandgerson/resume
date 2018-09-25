@@ -55,8 +55,8 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 * [codepen.io profile](https://codepen.io/dandgerson/)
 * [github.com profile](https://github.com/dandgerson)
 * [codewars.com profile](https://www.codewars.com/users/dandgerson)
-* StackOverflow.com profile
-* Upwork.com profile
+* [stackoverflow.com profile](https://stackoverflow.com/users/7360033/dmitry-g-anderson)
+* [upwork.com profile](https://www.upwork.com/freelancers/~01d9b90c1ce0ba2e06)
 
 ## Education
 
