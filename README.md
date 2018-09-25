@@ -13,22 +13,27 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 ---
 
-*if you prefer to know more about me, just reading [**my love story**](./my_story.md).*
+*if you prefer to know more about me, just read [**my love story**](./my_story.md).*
 
 *also you can get my **one page PDF resume [en](./en_one_page_resume.pdf) | [rus](./ru_one_page_resume.pdf)***
+
+*if you think that you don't hire juniors, just read [**this post**](https://dev.to/isaacandsuch/if-you-dont-hire-juniors-you-dont-deserve-seniors-48kb?utm_source=Newsletter+Subscribers&utm_campaign=63b22361fd-EMAIL_CAMPAIGN_2018_09_24_18&utm_medium=email&utm_term=0_d8f11d5d1e-63b22361fd-154379453)*
 
 ## Skills
 
 | **Hard Skills** | *Soft Skills* | Other Skills |
 | ----------- | ----------- | ------------ |
-| **HTML / CSS** | *English language* | Blind 10-fingers typing |
-| **Sass(SCSS) / Pug** | *Psychology and pedagogy* | Repair of computer equipment, soldering and replacement of hardware electronic components |
-| **JavaScript / AJAX / OOP** | *Professional ethics and etiquette* | |
-| **Webpack / Gulp / npmScript** | *Speech communication* | |
-| **NodeJS** | *Conflictology* | |
-| **Bootstrap** | *Psychology of business communication* | |
+| **HTML and template engines** | *English language* | Blind 10-fingers typing |
+| **CSS, PostCSS, BEM notation, CSS Modules, Sass(SCSS)** | *Psychology and pedagogy* | Repair of computer equipment, soldering and replacement of hardware electronic components |
+| **JavaScript (ES2015+) / AJAX / OOP** | *Professional ethics and etiquette* | |
+| **Node.js** | *Conflictology* | |
 | **Vue.js** | *Public Relations* | |
-| **PHP / MySQL** | | |
+| **Basic concepts of functional programming** | *Speech communication* | |
+| **Build systems Webpack, Gulp** | *Psychology of business communication* | |
+| **Basics of dev-ops (build systems, formatting and linting tools, deployment, etc)** | | |
+| **Basics of testing using Mocha, Chai** | | |
+| **Bootstrap** | | |
+| **Basic knowledge in PHP / MySQL** | | |
 | **Wordpress** | | |
 | **Git** | | |
 | **CLI / Shell / Bash** | | |
@@ -73,6 +78,7 @@ Specialist degree in Sociology (five years of education) 2011: [part 1](./academ
   * [Udemy.com : Bootstrap 4 Quick Start: Code Modern Responsive Websites 2017](https://www.udemy.com/bootstrap-4/) : [certificate](./certificates_courses/bootstrap4_quick_start.pdf)
 * JavaScript
   * [JAVASCRIPT.INFO : JavaScript/DOM/Interfaces 2018 (Iliya Kantor)](http://javascript.info/courses/js)
+  * [khanacademy.org : Intro to JS: Drawing & Animation 2018](https://www.khanacademy.org/computing/computer-programming/programming)
   * [Udemy.com : Build a Complete JQuery Plugin 2017](https://www.udemy.com/build-a-complete-jquery-plugin-image-pop-up-dialog/) : [certificate](./certificates_courses/build_jquery_plugin.pdf)
   * [Udemy.com : Learn jQuery 2017](https://www.udemy.com/draft/591586/) : [certificate](./certificates_courses/learn_jquery.pdf)
 * Git
@@ -82,13 +88,17 @@ Specialist degree in Sociology (five years of education) 2011: [part 1](./academ
 * CLI / Shell / Bash
   * [Udacity.com : Linux Command Line Basics 2017](https://www.udacity.com/course/linux-command-line-basics--ud595) : Free
 * Others
+  * [Coursera.com : Learning How to Learn 2018](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) : Free
   * [Udacity.com : Refresh Your Resume 2018](https://classroom.udacity.com/courses/ud243) : Free
 
 ### Readed Books
 
-## Contact
+## Contacts
 
-* ***twitter:*** [@dandgerson](https://twitter.com/dandgerson)
-* ***facebook:*** [dandgerson](https://www.facebook.com/dandgerson)
+* ***phone:*** +7 905 63 444 67
 * ***email:*** dandgerson@gmail.com
-* ***website:*** [dandgerson.com](http://dandgerson.com/)
+* ***github:*** [dandgerson](https://github.com/dandgerson)
+* ***twitter:*** [@dandgerson](https://twitter.com/dandgerson)
+* ***linkedin:*** [dandgerson](https://www.linkedin.com/in/dandgerson/)
+* ***facebook:*** [dandgerson](https://www.facebook.com/dandgerson)
+* ***personal site:*** [dandgerson.com](http://dandgerson.com/)

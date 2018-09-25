@@ -1,5 +1,9 @@
 # Resume TODO list
 
+## Make one page resume variant on russian and english
+
+## Make russian variant CV
+
 ## Write my love story
 
 * Explain how i became how as i am. What inspired me to do what i do
@@ -24,15 +28,15 @@
 
 ## Fill Education section
 
-### Explain my Udacity courses
+### ~~Explain my Udacity courses~~
 
-* refresh your resume
-* html css basics
-* responsive web development
-* git and github
+* ~~refresh your resume~~
+* ~~html css basics~~
+* ~~responsive web development~~
+* ~~git and github~~
 
-### Explain my Coursera courses
+### ~~Explain my Coursera courses~~
 
-* learning how to learn by Barbara Oakly
+* ~~learning how to learn by Barbara Oakly~~
 
-### Explain my Khan Academy courses
+### ~~Explain my Khan Academy courses~~
