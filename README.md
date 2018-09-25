@@ -74,7 +74,7 @@ Specialist degree in Sociology (five years of education) 2011: [part 1](./academ
 
 ## Contact
 
-* tweeter: @dandgerson
-* facebook: dandgerson
-* email: dandgerson@gmail.com
-* website: dandgerson.com
+* ***twitter:*** [@dandgerson](https://twitter.com/dandgerson)
+* ***facebook:*** [dandgerson](https://www.facebook.com/dandgerson)
+* ***email:*** dandgerson@gmail.com
+* ***website:*** [dandgerson.com](http://dandgerson.com/)
