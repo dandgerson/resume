@@ -1,5 +1,7 @@
 # Dmitry G. Anderson
 
+![My portrait](./img/portrait.jpg)
+
 Hello I'm Dmitry G. Anderson Software Developer and JavaScript Enthusiast.
 
 ## Skills
