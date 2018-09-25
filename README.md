@@ -2,7 +2,7 @@
 
 [![small portrait](./img/small_portrait.jpg)](./img/portrait.jpg)
 
-Hello I'm Dmitry G. Anderson Software Developer and JavaScript Enthusiast. If you want you can read [my story](./story.md)
+Hello I'm Dmitry G. Anderson Software Developer and JavaScript Enthusiast. If you prefer you can get to know me more closely by reading [my story](./my_story.md)
 
 ## Skills
 
