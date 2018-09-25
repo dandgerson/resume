@@ -13,7 +13,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 ---
 
-*if you prefer to know more about me, just read [**my love story**](./my_story.md).*
+*if you prefer to know more about me, just read [**my love story**](./my_story.md)*
 
 *also you can get my **one page PDF resume [en](./en_one_page_resume.pdf) | [rus](./ru_one_page_resume.pdf)***
 
