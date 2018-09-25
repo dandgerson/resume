@@ -11,7 +11,9 @@ I want growing up as much faster as its can and if you can load me cool js front
 
 If being more precisely, I ideally dream to building cool and complicated Vue.js web interfaces, pumping up my brain with programming hard skills, learn more other cool hard frontend stuff, get awesome middle / senior mentor, and deep dive in cool project surrounded with my like-minded people.
 
-*and if you prefer to know more about me, just reading [**my love story**](./my_story.md).*
+---
+
+*if you prefer to know more about me, just reading [**my love story**](./my_story.md).*
 
 *also you can get my **one page PDF resume [en](./en_one_page_resume.pdf) | [rus](./ru_one_page_resume.pdf)***
 
@@ -28,8 +30,9 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 | **Vue.js** | *Public Relations* | |
 | **PHP / MySQL** | | |
 | **Wordpress** | | |
-| **CLI** | | |
-| **Photoshop** | | |
+| **Git** | | |
+| **CLI / Shell / Bash** | | |
+| **Adobe Photoshop** | | |
 
 ## Experience
 
@@ -62,13 +65,24 @@ Specialist degree in Sociology (five years of education) 2011: [part 1](./academ
 ### Courses
 
 * HTML and CSS
-  * [Udemy: The Complete Web Developer Course 2.0 2018](https://www.udemy.com/the-complete-web-developer-course-2/) : [certificate]()
-  * [Udemy: The Complete Flexbox Tutorial: Learn CSS3 Flexbox in 2018](https://www.udemy.com/flexbox-tutorial/) : [certificate](./certificates_courses/complete_flexbox_tutorial.pdf)
-  * [Udemy: Bootstrap 4 Quick Start: Code Modern Responsive Websites 2017](https://www.udemy.com/bootstrap-4/) : [certificate](./certificates_courses/bootstrap4_quick_start.pdf)
+  * [Udemy.com : The Complete Web Developer Course 2.0 2018](https://www.udemy.com/the-complete-web-developer-course-2/) : [certificate]()
+  * [Udacity.com : Intro to HTML and CSS 2017](https://www.udacity.com/course/intro-to-html-and-css--ud001) : Free
+  * [Udacity.com : Responsive Web Design Fundamentals 2017](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) : Free
+  * [Udacity.com : Responsive Images 2017](https://www.udacity.com/course/responsive-images--ud882) : Free
+  * [Udemy.com : The Complete Flexbox Tutorial: Learn CSS3 Flexbox in 2018](https://www.udemy.com/flexbox-tutorial/) : [certificate](./certificates_courses/complete_flexbox_tutorial.pdf)
+  * [Udemy.com : Bootstrap 4 Quick Start: Code Modern Responsive Websites 2017](https://www.udemy.com/bootstrap-4/) : [certificate](./certificates_courses/bootstrap4_quick_start.pdf)
 * JavaScript
   * [JAVASCRIPT.INFO : JavaScript/DOM/Interfaces 2018 (Iliya Kantor)](http://javascript.info/courses/js)
-  * [Udemy: Build a Complete JQuery Plugin 2017](https://www.udemy.com/build-a-complete-jquery-plugin-image-pop-up-dialog/) : [certificate](./certificates_courses/build_jquery_plugin.pdf)
-  * [Udemy: Learn jQuery 2017](https://www.udemy.com/draft/591586/) : [certificate](./certificates_courses/learn_jquery.pdf)
+  * [Udemy.com : Build a Complete JQuery Plugin 2017](https://www.udemy.com/build-a-complete-jquery-plugin-image-pop-up-dialog/) : [certificate](./certificates_courses/build_jquery_plugin.pdf)
+  * [Udemy.com : Learn jQuery 2017](https://www.udemy.com/draft/591586/) : [certificate](./certificates_courses/learn_jquery.pdf)
+* Git
+  * [Udacity.com : Version Control with Git 2017](https://www.udacity.com/course/version-control-with-git--ud123) : Free
+  * [Udacity.com : How to Use Git and GitHub 2017](https://classroom.udacity.com/courses/ud775) : Free
+  * [Udacity.com : GitHub & Collaboration 2017](https://classroom.udacity.com/courses/ud456) : Free
+* CLI / Shell / Bash
+  * [Udacity.com : Linux Command Line Basics 2017](https://www.udacity.com/course/linux-command-line-basics--ud595) : Free
+* Others
+  * [Udacity.com : Refresh Your Resume 2018](https://classroom.udacity.com/courses/ud243) : Free
 
 ### Readed Books
 
