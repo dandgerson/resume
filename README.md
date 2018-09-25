@@ -2,6 +2,8 @@
 
 ## Dmitry G. Anderson
 
+[russian version for those who wants in russian](./ru_main.md)
+
 Hello, I'm Dmitry G. Anderson - Software Developer and JavaScript Enthusiast.
 I very in love in JS programming and building graphical web interfaces. Since December 2016 I dropped all of my others and began training hard my hard skills in Frontend Development and JavaScript like a weightlifter on steroids with the barbell before starts.
 
@@ -11,15 +13,19 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 *and if you prefer to know more about me, just reading [**my love story**](./my_story.md).*
 
+*also you can get my **one page PDF resume [en](./en_one_page_resume.pdf) | [rus](./ru_one_page_resume.pdf)***
+
 ## Skills
 
 * HTML / CSS
 * Sass(SCSS) / Pug
 * JavaScript / AJAX / OOP
+* Webpack / Gulp / npmScript
 * NodeJS
 * Bootstrap
 * Vue.js
-* Webpack / Gulp / npmScript
+* PHP / MySQL
+* Wordpress
 * CLI
 * Photoshop
 
@@ -40,14 +46,15 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 ## Experience
 
-## Activities
+## Activity
 
 ### Projects
 
 ### Profiles
 
-* Codewars.com profile
-* Github.com profile
+* [codepen.io profile](https://codepen.io/dandgerson/)
+* [github.com profile](https://github.com/dandgerson)
+* [codewars.com profile](https://www.codewars.com/users/dandgerson)
 * StackOverflow.com profile
 * Upwork.com profile
 
