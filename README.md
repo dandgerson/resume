@@ -101,6 +101,23 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 ---
 
+#### March 2017. Several small projects with Bootstrap 4
+
+* Customize practice with The Bootstrap 4 basic Album template
+  * [look more detailed information about project on github repository](https://github.com/dandgerson/practice-with-customize-bootstrap4-template)
+  * [production showcase](http://dandgerson.com/projects/codeBand/)
+* Basic one page website with bootstrap 4
+  * [look more detailed information about project on github repository](https://github.com/dandgerson/basic-web-site-with-bootstrap4)
+  * [production showcase](http://dandgerson.com/projects/silentWorld/)
+* Landing page with bootstrap 4
+  * [look more detailed information about project on github repository](https://github.com/dandgerson/appLandingPage)
+  * [production showcase](http://dandgerson.com/projects/appLandingPage/) 
+
+**Short description:**
+*This is three small education projects with HTML / CSS and Bootsrap 4.*
+
+---
+
 ### Profiles
 
 * [codepen.io](https://codepen.io/dandgerson/)
