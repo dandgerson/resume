@@ -48,11 +48,11 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 ### Profiles
 
-* [codepen.io profile](https://codepen.io/dandgerson/)
-* [github.com profile](https://github.com/dandgerson)
-* [codewars.com profile](https://www.codewars.com/users/dandgerson)
-* [stackoverflow.com profile](https://stackoverflow.com/users/7360033/dmitry-g-anderson)
-* [upwork.com profile](https://www.upwork.com/freelancers/~01d9b90c1ce0ba2e06)
+* [codepen.io](https://codepen.io/dandgerson/)
+* [github.com](https://github.com/dandgerson)
+* [codewars.com](https://www.codewars.com/users/dandgerson)
+* [stackoverflow.com](https://stackoverflow.com/users/7360033/dmitry-g-anderson)
+* [upwork.com](https://www.upwork.com/freelancers/~01d9b90c1ce0ba2e06)
 
 ## Education
 
@@ -97,6 +97,8 @@ Specialist degree in Sociology (five years of education) 2011: [part 1](./academ
 * HTML / CSS
   * [CSS Secrets: Better Solutions to Everyday Web Design Problems. By Lea Verou 2015](https://www.amazon.co.uk/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635)
 * JavaScript
+  * [The Modern JavaScript Tutorial. By Iliya Kantor 2018](http://javascript.info/)
+  * [Современный учебник Javascript. By Iliya Kantor 2018](http://learn.javascript.ru/)
   * [Understanding ECMAScript 6. By Nicholas C. Zakas 2018](https://leanpub.com/understandinges6)
   * [Eloquent JavaScript 3rd edition. By Marijn Haverbeke 2018](https://eloquentjavascript.net/)
   * [JavaScript Fundamentals Handbook. By Flavio Copes 2018](https://flaviocopes.com/javascript/)
