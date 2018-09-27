@@ -69,6 +69,8 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 ### Projects
 
+---
+
 #### December 2016. My first HTML / CSS and Bootstrap education project
 
 * [look more detailed information about project on github repository](https://github.com/dandgerson/anderson.su)
@@ -77,6 +79,8 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 **Short description:**
 *This is my first education project when I got acquainted with the technologies of web development.*
 
+---
+
 #### February 2017. Sketch for Powerlifting Federation website
 
 * [look more detailed information about project on github repository](https://github.com/dandgerson/fpr76.ru)
@@ -84,6 +88,8 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 **Short description:**
 *This is semi-education project aims to build a sketch for Powerlifting Federation website and gain expertize with web development technologies.*
+
+---
 
 ### Profiles
 
