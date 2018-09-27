@@ -42,6 +42,29 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 ## Experience
 
+### [https://svaer.ru](https://svaer.ru) - corporate website for construction company
+
+* Main Tasks
+  * Develop a corporate website of the manufacturer in order to receive applications for the order of products
+* Directions of work
+  * Installation Wordpress theme
+  * Installation child theme and modification theme template
+  * Installation and modification Wordpress plugins
+  * Russian localization of the theme
+  * Filling content
+* Total
+  * Successful achievement of the main task
+  * 24 hours
+  * $16.00 / hr
+  * $384.00 earned
+  * Gained expertise with :
+    * Wordpress
+    * HTML / CSS
+    * PHP
+    * Content management
+    * English language
+    * Business communication
+
 ## Activity
 
 ### Projects
@@ -118,6 +141,7 @@ Specialist degree in Sociology (five years of education) 2011: [part 1](./academ
 * Node.js
   * [Node.js Handbook. By Flavio Copes 2018](https://flaviocopes.com/node-javascript-language/)
 * PHP / MySQL
+  * [PHP: The "Right" Way. By Phil Sturgeon and Josh Lockhart 2016](https://leanpub.com/phptherightway)
   * [Learning PHP, MySQL, JavaScript, CSS & HTML5: A Step-by-Step Guide to Creating Dynamic Websites. By Robin Nixon 2014](https://www.amazon.co.uk/Learning-MySQL-JavaScript-HTML5-Step/dp/1491949465)
 * About programming in general
   * [Code Complete: A Practical Handbook of Software Construction. By Steve McConnell 2004](https://www.amazon.co.uk/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=asap_bc?ie=UTF8)
