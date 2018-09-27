@@ -69,45 +69,21 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 ### Projects
 
-* 2016 My first HTML / CSS and Bootstrap education project
-  * [github link repository](https://github.com/dandgerson/anderson.su)
-  * [showcase link](https://github.com/dandgerson/anderson.su)
-  
-  <dl>
-    <dt>Short description</dt>
-    <dd>This is my first education project when I got acquainted with the technologies of web development.</dd>
-    <dt>Goals and Achievements</dt>
-    <dd>
-    <ul>
-     <li>Main Tasks
-      <ul>
-        <li>Get practies with HTML / CSS and Bootstrap framework</li>
-      </ul>
-     </li>
-     <li>Directions of work
-      <ul>
-        <li>HTML and CSS</li>
-        <li>Bootstrap 3</li>
-        <li>working with npm and bower</li>
-      </ul>
-     </li>
-     <li>Total
-      <ul>
-        <li>Successful achievement of the main task</li>
-        <li>8 hours</li>
-        <li>Gained expertise with :
-          <ul>
-            <li>npm and bower</li>
-            <li>HTML and CSS</li>
-            <li>Bootstrap</li>
-            <li>English language</li>
-          </ul>
-        </li>
-      </ul>
-     </li>
-    </ul>
-    </dd>
-  </dl>
+#### December 2016. My first HTML / CSS and Bootstrap education project
+
+* [look more detailed information about project on github repository](https://github.com/dandgerson/anderson.su)
+* [production showcase](http://dandgerson.com/projects/anderson.su/)
+
+**Short description:**
+*This is my first education project when I got acquainted with the technologies of web development.*
+
+#### February 2017. Sketch for Powerlifting Federation website
+
+* [look more detailed information about project on github repository](https://github.com/dandgerson/fpr76.ru)
+* [production showcase](http://dandgerson.com/projects/fpr76.ru/)
+
+**Short description:**
+*This is semi-education project aims to build a sketch for Powerlifting Federation website and gain expertize with web development technologies.*
 
 ### Profiles
 
