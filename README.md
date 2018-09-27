@@ -91,6 +91,16 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 ---
 
+#### March 2017. Social Page by memory Konstantin Stupin
+
+* [look more detailed information about project on github repository](https://github.com/dandgerson/stupa)
+* [production showcase](http://dandgerson.com/projects/stupa/)
+
+**Short description:**
+*This is Social Page by memory Konstantin Stupin.*
+
+---
+
 ### Profiles
 
 * [codepen.io](https://codepen.io/dandgerson/)
