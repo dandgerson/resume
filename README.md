@@ -94,6 +94,7 @@ Specialist degree in Sociology (five years of education) 2011: [part 1](./academ
 
 ### Read Books
 
+* [Understanding ECMAScript 6. By Nicholas C. Zakas 2018](https://leanpub.com/understandinges6)
 * [Design patterns : elements of reusable object-oriented software. By Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides 1994](https://www.amazon.co.uk/Design-patterns-elements-reusable-object-oriented/dp/0201633612)
 * [Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series). By Robert C. Martin 2017](https://www.amazon.com/gp/product/B075LRM681/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1)
 * [Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin Series). By Robert C. Martin 2008](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
