@@ -59,7 +59,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
   * $384.00 earned
   * Gained expertise with :
     * Wordpress
-    * HTML / CSS
+    * HTML and CSS
     * PHP
     * Content management
     * English language
@@ -109,7 +109,7 @@ Specialist degree in Sociology (five years of education) 2011: [part 1](./academ
   * [Udacity.com : Version Control with Git 2017](https://www.udacity.com/course/version-control-with-git--ud123) : Free
   * [Udacity.com : How to Use Git and GitHub 2017](https://classroom.udacity.com/courses/ud775) : Free
   * [Udacity.com : GitHub & Collaboration 2017](https://classroom.udacity.com/courses/ud456) : Free
-* CLI / Shell / Bash
+* CLI / Shell and Bash
   * [Udacity.com : Linux Command Line Basics 2017](https://www.udacity.com/course/linux-command-line-basics--ud595) : Free
 * Others
   * [Coursera.com : Learning How to Learn 2018](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) : Free
@@ -117,7 +117,7 @@ Specialist degree in Sociology (five years of education) 2011: [part 1](./academ
 
 ### Read Books
 
-* HTML / CSS
+* HTML and CSS
   * [CSS Secrets: Better Solutions to Everyday Web Design Problems. By Lea Verou 2015](https://www.amazon.co.uk/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635)
 * JavaScript
   * [The Modern JavaScript Tutorial. By Iliya Kantor 2018](http://javascript.info/)
@@ -140,14 +140,14 @@ Specialist degree in Sociology (five years of education) 2011: [part 1](./academ
   * [Elegant Objects Volume 2. By Egor Bugaenko 2018](https://www.yegor256.com/elegant-objects.html)
 * Node.js
   * [Node.js Handbook. By Flavio Copes 2018](https://flaviocopes.com/node-javascript-language/)
-* PHP / MySQL
+* PHP and MySQL
   * [PHP: The "Right" Way. By Phil Sturgeon and Josh Lockhart 2016](https://leanpub.com/phptherightway)
   * [Learning PHP, MySQL, JavaScript, CSS & HTML5: A Step-by-Step Guide to Creating Dynamic Websites. By Robin Nixon 2014](https://www.amazon.co.uk/Learning-MySQL-JavaScript-HTML5-Step/dp/1491949465)
 * About programming in general
   * [Code Complete: A Practical Handbook of Software Construction. By Steve McConnell 2004](https://www.amazon.co.uk/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=asap_bc?ie=UTF8)
   * [Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series). By Robert C. Martin 2017](https://www.amazon.com/gp/product/B075LRM681/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1)
   * [Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin Series). By Robert C. Martin 2008](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
-* Computer Science / Algorithms
+* Computer Science and Algorithms
   * [Computer Science Distilled: Learn the Art of Solving Computational Problems. By Wladston Ferreira Filho 2017](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
   * [Grokking Algorithms: An illustrated guide for programmers and other curious people. By Aditya Bhargava 2015](https://www.amazon.co.uk/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=asap_bc?ie=UTF8)
 * Management
