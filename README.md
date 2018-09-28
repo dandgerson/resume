@@ -44,13 +44,13 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 ---
 
-### December 2017 [https://svaer.ru](https://svaer.ru) - corporate website for construction company
+### December 2017 Project cooperation with [internet marketing agency "Зарядка"](https://zaradka.com)
 
 * [more detailed information about project](./experience/svaer.md)
 * [production showcase](https://svaer.ru)
 
 **Short description:**
-*Developing a corporate website of the manufacturer in order to receive applications for the order of products.*
+*Developing a corporate [website](https://svaer.ru) of the manufacturer in order to receive applications for the order of products.*
 
 ---
 
