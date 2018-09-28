@@ -1,6 +1,6 @@
 # [![small portrait](./img/small_portrait.jpg)](./img/portrait.jpg)
 
-***[english](./README.md) | [ukrainian](./uk_main.md)***
+***[english](./README.md) | [russian](./ru_main.md)***
 
 ## Dmitry G. Anderson
 

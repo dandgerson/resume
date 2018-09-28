@@ -1,9 +1,8 @@
 # [![small portrait](./img/small_portrait.jpg)](./img/portrait.jpg)
 
-## Dmitry G. Anderson
+***[russian](./ru_main.md) | [ukrainian](./uk_main.md)***
 
-[russian version for those who prefer russian](./ru_main.md)
-[ukrainian version for those who prefer ukrainian](./uk_main.md)
+## Dmitry G. Anderson
 
 Hello, I'm Dmitry G. Anderson - Software Developer and JavaScript Enthusiast.
 I very in love in JS programming and building graphical web interfaces. Since November 2016 I dropped all of my others and began training hard my hard skills in Frontend Development and JavaScript like a weightlifter on steroids with the barbell before starts.
@@ -14,11 +13,11 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 ---
 
-*if you prefer to know more about me, just read [**my love story**](./my_story.md)*
+*[**more about me**](./story.md)*
 
-*also you can get my **one page PDF resume [en](./en_one_page_resume.pdf) | [rus](./ru_one_page_resume.pdf)***
+***one page PDF resume [en](./en_one_page_resume.pdf) | [rus](./ru_one_page_resume.pdf) | [ukr](./ukr_one_page_resume.pdf)***
 
-*if you think that you don't hire juniors, just read [**this post**](https://dev.to/isaacandsuch/if-you-dont-hire-juniors-you-dont-deserve-seniors-48kb?utm_source=Newsletter+Subscribers&utm_campaign=63b22361fd-EMAIL_CAMPAIGN_2018_09_24_18&utm_medium=email&utm_term=0_d8f11d5d1e-63b22361fd-154379453)*
+*if you thinking that you don't hire juniors, just read [**this post**](https://dev.to/isaacandsuch/if-you-dont-hire-juniors-you-dont-deserve-seniors-48kb?utm_source=Newsletter+Subscribers&utm_campaign=63b22361fd-EMAIL_CAMPAIGN_2018_09_24_18&utm_medium=email&utm_term=0_d8f11d5d1e-63b22361fd-154379453)*
 
 ## Skills
 
