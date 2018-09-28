@@ -11,13 +11,13 @@ I want growing up as much faster as its can and if you can load me cool js front
 
 If being more precisely, I ideally dream to building cool and complicated Vue.js web interfaces, pumping up my brain with programming hard skills, learn more other cool hard frontend stuff, get awesome middle / senior mentor, and deep dive in cool project surrounded with my like-minded people.
 
----
-
 *[**more about me**](./story.md)*
 
 ***one page PDF resume [en](./en_one_page_resume.pdf) | [rus](./ru_one_page_resume.pdf) | [ukr](./ukr_one_page_resume.pdf)***
 
-*if you thinking that you don't hire juniors, just [**read**](https://dev.to/isaacandsuch/if-you-dont-hire-juniors-you-dont-deserve-seniors-48kb?utm_source=Newsletter+Subscribers&utm_campaign=63b22361fd-EMAIL_CAMPAIGN_2018_09_24_18&utm_medium=email&utm_term=0_d8f11d5d1e-63b22361fd-154379453)*
+*( if you thinking that you don't hire juniors, just [**read**](https://dev.to/isaacandsuch/if-you-dont-hire-juniors-you-dont-deserve-seniors-48kb?utm_source=Newsletter+Subscribers&utm_campaign=63b22361fd-EMAIL_CAMPAIGN_2018_09_24_18&utm_medium=email&utm_term=0_d8f11d5d1e-63b22361fd-154379453) )*
+
+---
 
 ## Skills
 
@@ -43,7 +43,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 ---
 
-### December 2017 Project cooperation with [internet marketing agency "Зарядка"](https://zaradka.com)
+### December 2017 Project cooperation with internet marketing agency ["Зарядка"](https://zaradka.com)
 
 * [more detailed information about project](./experience/svaer.md)
 * [production showcase](https://svaer.ru)
@@ -56,6 +56,36 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 ## Activity
 
 ### Projects
+
+---
+
+#### July 2017. Production one page portfolio website
+
+* [more detailed information about project](https://github.com/dandgerson/bootstrapPortfolio)
+* [production showcase](http://dandgerson.com/projects/bootstrapPortfolio)
+
+**Short description:**
+*Developing production portfolio website with HTML / Pug / CSS / Sass(SCSS), Bootsrap 4, and other third party libraries.*
+
+---
+
+#### May 2017. Production template for my own Wordpress portfolio theme
+
+* [more detailed information about project](https://github.com/dandgerson/wordpressPortfolio)
+* [production showcase](http://dandgerson.com/projects/wordpressPortfolio)
+
+**Short description:**
+*Developing template for Wordpress portfolio theme with HTML / CSS, Bootsrap 4 and other third party libraries.*
+
+---
+
+#### April 2017. Website stub
+
+* [more detailed information about project](https://github.com/dandgerson/p2018)
+* [production showcase](http://dandgerson.com/projects/p2018/)
+
+**Short description:**
+*Developing website stub with HTML / CSS and Bootsrap 4.*
 
 ---
 
