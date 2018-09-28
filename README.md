@@ -42,28 +42,17 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 ## Experience
 
-### [https://svaer.ru](https://svaer.ru) - corporate website for construction company
+---
 
-* Main Tasks
-  * Develop a corporate website of the manufacturer in order to receive applications for the order of products
-* Directions of work
-  * Installation Wordpress theme
-  * Installation child theme and modification theme template
-  * Installation and modification Wordpress plugins
-  * Russian localization of the theme
-  * Filling content
-* Total
-  * Successful achievement of the main task
-  * 24 hours
-  * $16.00 / hr
-  * $384.00 earned
-  * Gained expertise with :
-    * Wordpress
-    * HTML and CSS
-    * PHP
-    * Content management
-    * English language
-    * Business communication
+### December 2017 [https://svaer.ru](https://svaer.ru) - corporate website for construction company
+
+* [more detailed information about project](./experience/svaer.md)
+* [production showcase](https://svaer.ru)
+
+**Short description:**
+*Developing a corporate website of the manufacturer in order to receive applications for the order of products.*
+
+---
 
 ## Activity
 
@@ -73,7 +62,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 #### December 2016. My first HTML / CSS and Bootstrap education project
 
-* [look more detailed information about project on github repository](https://github.com/dandgerson/anderson.su)
+* [more detailed information about project](https://github.com/dandgerson/anderson.su)
 * [production showcase](http://dandgerson.com/projects/anderson.su/)
 
 **Short description:**
@@ -83,17 +72,17 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 #### February 2017. Sketch for Powerlifting Federation website
 
-* [look more detailed information about project on github repository](https://github.com/dandgerson/fpr76.ru)
+* [more detailed information about project](https://github.com/dandgerson/fpr76.ru)
 * [production showcase](http://dandgerson.com/projects/fpr76.ru/)
 
 **Short description:**
-*This is semi-education project aims to build a sketch for Powerlifting Federation website and gain expertize with web development technologies.*
+*This is semi-education social project aims to build a sketch for Powerlifting Federation website for future usage and gain expertize with web development technologies.*
 
 ---
 
 #### March 2017. Social Page by memory Konstantin Stupin
 
-* [look more detailed information about project on github repository](https://github.com/dandgerson/stupa)
+* [more detailed information about project](https://github.com/dandgerson/stupa)
 * [production showcase](http://dandgerson.com/projects/stupa/)
 
 **Short description:**
@@ -104,13 +93,13 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 #### March 2017. Several small projects with Bootstrap 4
 
 * Customize practice with The Bootstrap 4 basic Album template
-  * [look more detailed information about project on github repository](https://github.com/dandgerson/practice-with-customize-bootstrap4-template)
+  * [more detailed information about project](https://github.com/dandgerson/practice-with-customize-bootstrap4-template)
   * [production showcase](http://dandgerson.com/projects/codeBand/)
 * Basic one page website with bootstrap 4
-  * [look more detailed information about project on github repository](https://github.com/dandgerson/basic-web-site-with-bootstrap4)
+  * [more detailed information about project](https://github.com/dandgerson/basic-web-site-with-bootstrap4)
   * [production showcase](http://dandgerson.com/projects/silentWorld/)
 * Landing page with bootstrap 4
-  * [look more detailed information about project on github repository](https://github.com/dandgerson/appLandingPage)
+  * [more detailed information about project](https://github.com/dandgerson/appLandingPage)
   * [production showcase](http://dandgerson.com/projects/appLandingPage/) 
 
 **Short description:**
