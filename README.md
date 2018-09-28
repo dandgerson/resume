@@ -17,7 +17,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 ***one page PDF resume [en](./en_one_page_resume.pdf) | [rus](./ru_one_page_resume.pdf) | [ukr](./ukr_one_page_resume.pdf)***
 
-*if you thinking that you don't hire juniors, just read [**this post**](https://dev.to/isaacandsuch/if-you-dont-hire-juniors-you-dont-deserve-seniors-48kb?utm_source=Newsletter+Subscribers&utm_campaign=63b22361fd-EMAIL_CAMPAIGN_2018_09_24_18&utm_medium=email&utm_term=0_d8f11d5d1e-63b22361fd-154379453)*
+*if you thinking that you don't hire juniors, just [**read**](https://dev.to/isaacandsuch/if-you-dont-hire-juniors-you-dont-deserve-seniors-48kb?utm_source=Newsletter+Subscribers&utm_campaign=63b22361fd-EMAIL_CAMPAIGN_2018_09_24_18&utm_medium=email&utm_term=0_d8f11d5d1e-63b22361fd-154379453)*
 
 ## Skills
 
