@@ -45,7 +45,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 ### December 2017 Project cooperation with internet marketing agency ["Зарядка"](https://zaradka.com)
 
-* [more detailed information about project](./experience/svaer.md)
+* [more details about the project](./experience/svaer.md)
 * [production showcase](https://svaer.ru)
 
 **Short description:**
@@ -55,13 +55,41 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 ## Activity
 
-### Projects
+### Education Projects
+
+---
+
+#### August 2018. REST API GUI Project
+
+* [more details about the project](https://github.com/dandgerson/rest-api-gui)
+* [production showcase](http://dandgerson.com/projects/rest-api-gui)
+
+**Short description:**
+*This app allows to interact with the REST API service using the simple graphical interface. It has the ability to perform basic requests to the server by interaction with graphical elements. The query result is dynamically displayed in the app output pane.*
+
+---
+
+#### November 2017 - July 2018. Long JavaScript programming learning session
+
+* [more details about the project](https://github.com/dandgerson/learnJS)
+
+**Short description:**
+*My repo for studying JavaScript programming tasks and mini projects.*
+
+---
+
+#### October 2017. Gulp boilerplate template for frontend lite projects
+
+* [more details about the project](https://github.com/dandgerson/template)
+
+**Short description:**
+*My custom gulp boilerplate for building lite projects.*
 
 ---
 
 #### July 2017. Production one page portfolio website
 
-* [more detailed information about project](https://github.com/dandgerson/bootstrapPortfolio)
+* [more details about the project](https://github.com/dandgerson/bootstrapPortfolio)
 * [production showcase](http://dandgerson.com/projects/bootstrapPortfolio)
 
 **Short description:**
@@ -71,7 +99,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 #### May 2017. Production template for my own Wordpress portfolio theme
 
-* [more detailed information about project](https://github.com/dandgerson/wordpressPortfolio)
+* [more details about the project](https://github.com/dandgerson/wordpressPortfolio)
 * [production showcase](http://dandgerson.com/projects/wordpressPortfolio)
 
 **Short description:**
@@ -81,7 +109,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 #### April 2017. Website stub
 
-* [more detailed information about project](https://github.com/dandgerson/p2018)
+* [more details about the project](https://github.com/dandgerson/p2018)
 * [production showcase](http://dandgerson.com/projects/p2018/)
 
 **Short description:**
@@ -92,13 +120,13 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 #### March 2017. Several small projects with Bootstrap 4
 
 * Customize practice with The Bootstrap 4 basic Album template
-  * [more detailed information about project](https://github.com/dandgerson/practice-with-customize-bootstrap4-template)
+  * [more details about the project](https://github.com/dandgerson/practice-with-customize-bootstrap4-template)
   * [production showcase](http://dandgerson.com/projects/codeBand/)
 * Basic one page website with bootstrap 4
-  * [more detailed information about project](https://github.com/dandgerson/basic-web-site-with-bootstrap4)
+  * [more details about the project](https://github.com/dandgerson/basic-web-site-with-bootstrap4)
   * [production showcase](http://dandgerson.com/projects/silentWorld/)
 * Landing page with bootstrap 4
-  * [more detailed information about project](https://github.com/dandgerson/appLandingPage)
+  * [more details about the project](https://github.com/dandgerson/appLandingPage)
   * [production showcase](http://dandgerson.com/projects/appLandingPage/)
 
 **Short description:**
@@ -108,7 +136,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 #### March 2017. Social Page by Memory Konstantin Stupin
 
-* [more detailed information about project](https://github.com/dandgerson/stupa)
+* [more details about the project](https://github.com/dandgerson/stupa)
 * [production showcase](http://dandgerson.com/projects/stupa/)
 
 **Short description:**
@@ -118,7 +146,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 #### February 2017. Sketch for Powerlifting Federation website
 
-* [more detailed information about project](https://github.com/dandgerson/fpr76.ru)
+* [more details about the project](https://github.com/dandgerson/fpr76.ru)
 * [production showcase](http://dandgerson.com/projects/fpr76.ru/)
 
 **Short description:**
@@ -128,7 +156,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 #### December 2016. My first HTML / CSS and Bootstrap education project
 
-* [more detailed information about project](https://github.com/dandgerson/anderson.su)
+* [more details about the project](https://github.com/dandgerson/anderson.su)
 * [production showcase](http://dandgerson.com/projects/anderson.su/)
 
 **Short description:**
