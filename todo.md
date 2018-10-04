@@ -1,13 +1,21 @@
 # Resume TODO list
 
-## Make one page resume variant on russian and english
+## Make one page resume variant on russian
+
+## Make one page resume variant on english
+
+## Make one page resume variant on ukrainian
 
 ## Make russian variant CV
 
-## Write my love story
+## Make ukrainian variant CV
 
-* Explain how i became how as i am. What inspired me to do what i do
-* explain how difficalt and pain i was growned. How mutated my brain and mind. How i...
+- find the man who can translate.
+
+## Write my story
+
+- Explain how i became how as i am. What inspired me to do what i do
+- explain how difficalt and pain i was growned. How mutated my brain and mind. How i...
 
 ## Explain my Experience section
 
