@@ -7,7 +7,7 @@
 Hello, I'm Dmitry G. Anderson - Software Developer and JavaScript Enthusiast.
 I'm inlove in JS programming and building graphical web interfaces. Since November 2016 I dropped all of my others and began training my hard skills in Frontend Development and JavaScript like a weightlifter on steroids before starts.
 
-I want growing up as much faster as its can and if you can load me cool js frontend stuff ***- I'm ready for action!***
+I want growing up as much faster as its can and if you can load me cool js frontend stuff ***- I'm ready for job!***
 
 If being more precisely, I ideally dream to building cool and complicated Vue.js web interfaces, pumping up my brain with programming hard skills, learn more other cool hard frontend stuff, get awesome middle / senior mentor, and deep dive in cool project surrounded with my like-minded people.
 
