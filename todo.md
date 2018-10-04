@@ -1,16 +1,16 @@
 # Resume TODO list
 
-## Make one page resume variant on russian
+## Make one page resume 
 
-## Make one page resume variant on english
+- variant on russian
+- variant on english
+- variant on ukrainian
 
-## Make one page resume variant on ukrainian
+## Make local variants of the CV
 
-## Make russian variant CV
-
-## Make ukrainian variant CV
-
-- find the man who can translate.
+- russian variant CV
+- ukrainian variant CV
+  - find the man who can translate.
 
 ## Write my story
 
