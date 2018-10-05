@@ -1,6 +1,6 @@
 # Resume TODO list
 
-## Make one page resume 
+## Make one page resume
 
 - variant on russian
 - variant on english
