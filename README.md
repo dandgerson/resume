@@ -1,6 +1,6 @@
 # [![small portrait](./img/small_portrait.jpg)](./img/portrait.jpg)
 
-***[russian](./ru_main.md) | [ukrainian](./uk_main.md)***
+***[russian](#) | [ukrainian](#)*** (in developing)
 
 ## Dmitry G. Anderson
 
@@ -11,9 +11,9 @@ I want growing up as much faster as its can and if you can load me cool js front
 
 If being more precisely, I ideally dream to building cool and complicated Vue.js web interfaces, pumping up my brain with programming hard skills, learn more other cool hard frontend stuff, get awesome middle / senior mentor, and deep dive in cool project surrounded with my like-minded people.
 
-*[**more about me**](./story.md)*
+*[**more about me**](./story.md)* (in developing)
 
-***one page PDF resume [en](./en_one_page_resume.pdf) | [rus](./ru_one_page_resume.pdf) | [ukr](./ukr_one_page_resume.pdf)***
+***one page PDF resume [en](./en_one_page_resume.pdf) | [rus](./ru_one_page_resume.pdf) | [ukr](./ukr_one_page_resume.pdf)*** (in developing)
 
 *( if you thinking that you don't hire juniors, just [**read**](https://dev.to/isaacandsuch/if-you-dont-hire-juniors-you-dont-deserve-seniors-48kb?utm_source=Newsletter+Subscribers&utm_campaign=63b22361fd-EMAIL_CAMPAIGN_2018_09_24_18&utm_medium=email&utm_term=0_d8f11d5d1e-63b22361fd-154379453) )*
 
@@ -26,7 +26,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 | **HTML and template engines** | *English language* | Blind 10-fingers typing |
 | **CSS, PostCSS, BEM notation, CSS Modules, Sass(SCSS)** | *Psychology and pedagogy* | Repair of computer equipment, soldering and replacement of hardware electronic components |
 | **JavaScript (ES2015+) / AJAX / OOP** | *Professional ethics and etiquette* | |
-| **Node.js** | *Conflictology* | |
+| **Basics of Nodejs** | *Conflictology* | |
 | **Vue.js** | *Public Relations* | |
 | **Basic concepts of functional programming** | *Speech communication* | |
 | **Build systems Webpack, Gulp** | *Psychology of business communication* | |
@@ -169,6 +169,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 * [codepen.io](https://codepen.io/dandgerson/)
 * [github.com](https://github.com/dandgerson)
 * [codewars.com](https://www.codewars.com/users/dandgerson)
+* [warriorjs.com](https://warriorjs.com/dandgerson)
 * [stackoverflow.com](https://stackoverflow.com/users/7360033/dmitry-g-anderson)
 * [upwork.com](https://www.upwork.com/freelancers/~01d9b90c1ce0ba2e06)
 
