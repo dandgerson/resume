@@ -176,6 +176,8 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
   * > Codewars is a community of developers, who are called Code Warriors (or just warriors), that train on improving their development skills. Think of it like a coding dojo - where developers train with each other and help each other get better through practice.
 * [warriorjs.com](https://warriorjs.com/dandgerson)
   * > Are you in need for JavaScript developers? WarriorJS can help you find talent by looking at the players' problem-solving approach and directly reaching out to the best candidates.
+  * ![my stats](./img/warriorjs.PNG)
+
 
 ## Education
 
