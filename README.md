@@ -1,6 +1,6 @@
 # [![small portrait](./img/small_portrait.jpg)](./img/portrait.jpg)
 
-***[russian](#) | [ukrainian](#)*** (in developing)
+***[russian]() | [ukrainian]()*** (in development)
 
 ## Dmitry G. Anderson
 
@@ -11,9 +11,9 @@ I want growing up as much faster as its can and if you can load me cool js front
 
 If being more precisely, I ideally dream to building cool and complicated Vue.js web interfaces, pumping up my brain with programming hard skills, learn more other cool hard frontend stuff, get awesome middle / senior mentor, and deep dive in cool project surrounded with my like-minded people.
 
-*[**more about me**](./story.md)* (in developing)
+*[**more about me**](./story.md)* (in process)
 
-***one page PDF resume [en](./en_one_page_resume.pdf) | [rus](./ru_one_page_resume.pdf) | [ukr](./ukr_one_page_resume.pdf)*** (in developing)
+***one page PDF resume [en](./en_one_page_resume.pdf) | [rus](./ru_one_page_resume.pdf) | [ukr](./ukr_one_page_resume.pdf)*** (in development)
 
 *( if you thinking that you don't hire juniors, just [**read**](https://dev.to/isaacandsuch/if-you-dont-hire-juniors-you-dont-deserve-seniors-48kb?utm_source=Newsletter+Subscribers&utm_campaign=63b22361fd-EMAIL_CAMPAIGN_2018_09_24_18&utm_medium=email&utm_term=0_d8f11d5d1e-63b22361fd-154379453) )*
 
@@ -46,10 +46,10 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 ### December 2017 Project cooperation with internet marketing agency ["Зарядка"](https://zaradka.com)
 
 * [more details about the project](./experience/svaer.md)
-* [production showcase](https://svaer.ru)
+* [production showcase](http://svaer.zrdka.ru/)
 
 **Short description:**
-*Developing a corporate [website](https://svaer.ru) of the manufacturer in order to receive applications for the order of products.*
+*Developing a corporate [website](http://svaer.zrdka.ru/) of the manufacturer in order to receive applications for the order of products.*
 
 ---
 
