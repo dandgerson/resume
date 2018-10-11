@@ -23,14 +23,14 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 | **Hard Skills** | *Soft Skills* | Other Skills |
 | ----------- | ----------- | ------------ |
-| **HTML and template engines** | *English language* | Blind 10-fingers typing |
+| **HTML and template engines** | *English language* | Blind 10-fingers fast typing |
 | **CSS, PostCSS, BEM notation, CSS Modules, Sass(SCSS)** | *Psychology and pedagogy* | Repair of computer equipment, soldering and replacement of hardware electronic components |
-| **JavaScript (ES2015+) / AJAX / OOP** | *Professional ethics and etiquette* | |
-| **Basics of Nodejs** | *Conflictology* | |
-| **Vue.js** | *Public Relations* | |
-| **Basic concepts of functional programming** | *Speech communication* | |
+| **JavaScript (ES2015+) / AJAX / OOP** | *Professional ethics and etiquette* | Decomposing tech tasks / Time management / Self organizing |
+| **Basics of Nodejs** | *Conflictology* | [workflowy](https://workflowy.com/invite/4eee4f34.emlx) / trello / kanban-like |
+| **Vue.js** | *Public Relations* | Slack / Telegram / Skype |
+| **Basic concepts of functional programming** | *Speech communication* | Google Docs |
 | **Build systems Webpack, Gulp** | *Psychology of business communication* | |
-| **Basics of dev-ops (build systems, formatting and linting tools, deployment, etc)** | | |
+| **Basics of dev-ops (build systems, formatting and linting tools, deployment, etc.)** | | |
 | **Basics of testing using Mocha, Chai** | | |
 | **Bootstrap** | | |
 | **Basic knowledge in PHP / MySQL** | | |
