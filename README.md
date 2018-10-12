@@ -33,7 +33,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 | **Basics of dev-ops (build systems, formatting and linting tools, deployment, etc.)** | | |
 | **Basics of testing using Mocha, Chai** | | |
 | **Bootstrap** | | |
-| **Basic knowledge in PHP / MySQL** | | |
+| **Basics of PHP and MySQL** | | |
 | **Wordpress** | | |
 | **Git** | | |
 | **CLI / Shell / Bash** | | |
