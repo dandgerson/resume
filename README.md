@@ -46,7 +46,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 ### December 2017 Project cooperation with internet marketing agency ["Зарядка"](https://zaradka.com)
 
 * [more details about the project](./experience/svaer.md)
-* [production showcase](http://svaer.zrdka.ru/)
+* [live project demo](http://svaer.zrdka.ru/)
 
 **Short description:**
 *Developing a corporate [website](http://svaer.zrdka.ru/) of the manufacturer in order to receive applications for the order of products.*
@@ -62,7 +62,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 #### August 2018. REST API GUI Project
 
 * [more details about the project](https://github.com/dandgerson/rest-api-gui)
-* [production showcase](http://dandgerson.com/projects/rest-api-gui)
+* [live project demo](http://dandgerson.com/projects/rest-api-gui)
 
 **Short description:**
 *This app allows to interact with the REST API service using the simple graphical interface. It has the ability to perform basic requests to the server by interaction with graphical elements. The query result is dynamically displayed in the app output pane.*
@@ -90,7 +90,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 #### July 2017. Production one page portfolio website
 
 * [more details about the project](https://github.com/dandgerson/bootstrapPortfolio)
-* [production showcase](http://dandgerson.com/projects/bootstrapPortfolio)
+* [live project demo](http://dandgerson.com/projects/bootstrapPortfolio)
 
 **Short description:**
 *Developing production portfolio website with HTML / Pug / CSS / Sass(SCSS), Bootsrap 4, and other third party libraries.*
@@ -100,7 +100,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 #### May 2017. Production template for my own Wordpress portfolio theme
 
 * [more details about the project](https://github.com/dandgerson/wordpressPortfolio)
-* [production showcase](http://dandgerson.com/projects/wordpressPortfolio)
+* [live project demo](http://dandgerson.com/projects/wordpressPortfolio)
 
 **Short description:**
 *Developing template for Wordpress portfolio theme with HTML / CSS, Bootsrap 4 and other third party libraries.*
@@ -110,7 +110,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 #### April 2017. Website stub
 
 * [more details about the project](https://github.com/dandgerson/p2018)
-* [production showcase](http://dandgerson.com/projects/p2018/)
+* [live project demo](http://dandgerson.com/projects/p2018/)
 
 **Short description:**
 *Developing website stub with HTML / CSS and Bootsrap 4.*
@@ -121,13 +121,13 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 * Customize practice with The Bootstrap 4 basic Album template
   * [more details about the project](https://github.com/dandgerson/practice-with-customize-bootstrap4-template)
-  * [production showcase](http://dandgerson.com/projects/codeBand/)
+  * [live project demo](http://dandgerson.com/projects/codeBand/)
 * Basic one page website with bootstrap 4
   * [more details about the project](https://github.com/dandgerson/basic-web-site-with-bootstrap4)
-  * [production showcase](http://dandgerson.com/projects/silentWorld/)
+  * [live project demo](http://dandgerson.com/projects/silentWorld/)
 * Landing page with bootstrap 4
   * [more details about the project](https://github.com/dandgerson/appLandingPage)
-  * [production showcase](http://dandgerson.com/projects/appLandingPage/)
+  * [live project demo](http://dandgerson.com/projects/appLandingPage/)
 
 **Short description:**
 *This is three small education projects with HTML / CSS and Bootsrap 4.*
@@ -137,7 +137,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 #### March 2017. Social Page by Memory Konstantin Stupin
 
 * [more details about the project](https://github.com/dandgerson/stupa)
-* [production showcase](http://dandgerson.com/projects/stupa/)
+* [live project demo](http://dandgerson.com/projects/stupa/)
 
 **Short description:**
 *This is Social Page by Memory Konstantin Stupin.*
@@ -147,7 +147,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 #### February 2017. Sketch for Powerlifting Federation website
 
 * [more details about the project](https://github.com/dandgerson/fpr76.ru)
-* [production showcase](http://dandgerson.com/projects/fpr76.ru/)
+* [live project demo](http://dandgerson.com/projects/fpr76.ru/)
 
 **Short description:**
 *This is semi-education social project aims to build a sketch for Powerlifting Federation website for future usage and gain expertize with web development technologies.*
@@ -157,7 +157,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 #### December 2016. My first HTML / CSS and Bootstrap education project
 
 * [more details about the project](https://github.com/dandgerson/anderson.su)
-* [production showcase](http://dandgerson.com/projects/anderson.su/)
+* [live project demo](http://dandgerson.com/projects/anderson.su/)
 
 **Short description:**
 *This is my first education project when I got acquainted with the technologies of web development.*
