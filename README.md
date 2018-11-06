@@ -110,7 +110,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 #### April 2017. Website stub
 
 * [more details about the project](https://github.com/dandgerson/p2018)
-* [live project demo](http://dandgerson.com/projects/p2018/)
+* [live project demo](http://dandgerson.com/projects/p2018)
 
 **Short description:**
 *Developing website stub with HTML / CSS and Bootsrap 4.*
