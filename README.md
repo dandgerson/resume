@@ -11,7 +11,7 @@ I want growing up as much faster as its can and if you can load me cool js front
 
 If being more precisely, I ideally dream to building cool and complicated Vue.js web interfaces, pumping up my brain with programming hard skills, learn more other cool hard frontend stuff, get awesome middle / senior mentor, and deep dive in cool project surrounded with my like-minded people.
 
-*[**more about me**](./story.md)* (in process)
+*[**more about me**](./story.md)*
 
 ***one page PDF resume [en]() | [rus]() | [ukr]()*** (in development)
 
