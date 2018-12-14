@@ -13,7 +13,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 *[**more about me**](./story.md)*
 
-***one page PDF resume [en]() | [rus]() | [ukr]()*** (in development)
+***one page PDF resume (en | rus | ukr)*** (in development)
 
 *( if you thinking that you don't hire juniors, just [**read**](https://dev.to/isaacandsuch/if-you-dont-hire-juniors-you-dont-deserve-seniors-48kb?utm_source=Newsletter+Subscribers&utm_campaign=63b22361fd-EMAIL_CAMPAIGN_2018_09_24_18&utm_medium=email&utm_term=0_d8f11d5d1e-63b22361fd-154379453) )*
 
@@ -26,7 +26,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 | **HTML and template engines** | *English language* | Blind 10-fingers fast typing |
 | **CSS, PostCSS, BEM notation, CSS Modules, Sass(SCSS)** | *Psychology and pedagogy* | Repair of computer equipment, soldering and replacement of hardware electronic components |
 | **JavaScript (ES2015+) / AJAX / OOP** | *Professional ethics and etiquette* | Decomposing tech tasks / Time management / Self organizing |
-| **Basics of Nodejs** | *Conflictology* | [workflowy](https://workflowy.com/invite/4eee4f34.emlx) / trello / kanban-like |
+| **Basics of Nodejs & Express** | *Conflictology* | [workflowy](https://workflowy.com/invite/4eee4f34.emlx) / trello / kanban-like |
 | **Vue.js** | *Public Relations* | Slack / Telegram / Skype |
 | **Basic concepts of functional programming** | *Speech communication* | Google Docs |
 | **Build systems Webpack, Gulp** | *Psychology of business communication* | |
