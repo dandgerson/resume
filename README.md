@@ -1,6 +1,6 @@
 # [![small portrait](./img/small_portrait.jpg)](./img/portrait.jpg)
 
-***[russian]() | [ukrainian]()*** (in development)
+**( russian | ukrainian )** (in development)
 
 ## Dmitry G. Anderson
 
@@ -13,7 +13,7 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 
 *[**more about me**](./story.md)*
 
-***one page PDF resume (en | rus | ukr)*** (in development)
+**one page PDF resume (en | rus | ukr)** (in development)
 
 *( if you thinking that you don't hire juniors, just [**read**](https://dev.to/isaacandsuch/if-you-dont-hire-juniors-you-dont-deserve-seniors-48kb?utm_source=Newsletter+Subscribers&utm_campaign=63b22361fd-EMAIL_CAMPAIGN_2018_09_24_18&utm_medium=email&utm_term=0_d8f11d5d1e-63b22361fd-154379453) )*
 
