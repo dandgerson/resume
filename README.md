@@ -190,6 +190,12 @@ Specialist degree in Sociology (five years of education) 2011: [part 1](./academ
 
 ### Courses
 
+* Main Courses in progress
+  * [OTUS. Разработчик JavaScript 2019](https://otus.ru/lessons/javascript/?int_source=courses_catalog&int_term=programming) (in progress)
+  * [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)](https://www.udemy.com/course/nodejs-the-complete-guide/) (in progress)
+  * [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/) (in progress)
+  * [MongoDB - The Complete Developer's Guide](https://www.udemy.com/mongodb-the-complete-developers-guide/) (in progress)
+
 * HTML and CSS
   * [Udacity.com : Intro to HTML and CSS 2017](https://www.udacity.com/course/intro-to-html-and-css--ud001) : Free
   * [Udacity.com : Responsive Web Design Fundamentals 2017](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) : Free
@@ -198,17 +204,10 @@ Specialist degree in Sociology (five years of education) 2011: [part 1](./academ
   * [Udemy.com : Bootstrap 4 Quick Start: Code Modern Responsive Websites 2017](https://www.udemy.com/bootstrap-4/) : [certificate](./certificates_courses/bootstrap4_quick_start.pdf)
   * [Udemy.com : The Complete Web Developer Course 2.0 2018](https://www.udemy.com/the-complete-web-developer-course-2/) (in progress)
 * JavaScript
-  * [OTUS. Разработчик JavaScript 2019](https://otus.ru/lessons/javascript/?int_source=courses_catalog&int_term=programming) (in progress)
   * [JAVASCRIPT.INFO : JavaScript/DOM/Interfaces 2018 (Iliya Kantor)](http://javascript.info/courses/js)
   * [khanacademy.org : Intro to JS: Drawing & Animation 2018](https://www.khanacademy.org/computing/computer-programming/programming) (in progress)
   * [Udemy.com : Build a Complete JQuery Plugin 2017](https://www.udemy.com/build-a-complete-jquery-plugin-image-pop-up-dialog/) : [certificate](./certificates_courses/build_jquery_plugin.pdf)
   * [Udemy.com : Learn jQuery 2017](https://www.udemy.com/draft/591586/) : [certificate](./certificates_courses/learn_jquery.pdf)
-* NodeJS
-  * [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)](https://www.udemy.com/course/nodejs-the-complete-guide/) (in progress)
-* React
-  * [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/) (in progress)
-* MongoDB
-  * [MongoDB - The Complete Developer's Guide](https://www.udemy.com/mongodb-the-complete-developers-guide/) (in progress)
 * Git
   * [Udacity.com : Version Control with Git 2017](https://www.udacity.com/course/version-control-with-git--ud123) : Free
   * [Udacity.com : How to Use Git and GitHub 2017](https://classroom.udacity.com/courses/ud775) : Free
@@ -221,12 +220,22 @@ Specialist degree in Sociology (five years of education) 2011: [part 1](./academ
 
 ### Read Books
 
+* Main Books in progress
+  * [JavaScript for impatient programmers (ES1–ES2019) by Dr. Axel Rauschmayer](http://exploringjs.com/impatient-js/index.html) in progress
+  * [Speaking JavaScript: An In-Depth Guide for Programmers by Dr. Axel Rauschmayer](http://speakingjs.com/) in progress
+  * [Mastering JavaScript Object-Oriented Programming by Andrea Chiarelli](https://www.oreilly.com/library/view/mastering-javascript-object-oriented/9781785889103/) (in progress)
+  * [Learning JavaScript Design Patterns. By Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) (in progress)
+  * [Head First Design Patterns. By Bert Bates, Kathy Sierra, Eric Freeman, Elisabeth Robson](http://shop.oreilly.com/product/9780596007126.do) (in progress)
+  * [Design patterns : elements of reusable object-oriented software. By Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides 1994](https://www.amazon.co.uk/Design-patterns-elements-reusable-object-oriented/dp/0201633612) (in progress)
+  * [Real-World Algorithms A Beginner's Guide By Panos Louridas 2017](https://mitpress.mit.edu/books/real-world-algorithms) (in progress)
+
 * HTML and CSS
   * [CSS Secrets: Better Solutions to Everyday Web Design Problems. By Lea Verou 2015](https://www.amazon.co.uk/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635)
 * JavaScript
   * [The Modern JavaScript Tutorial. By Iliya Kantor 2018](http://javascript.info/)
   * [Современный учебник Javascript. By Iliya Kantor 2018](http://learn.javascript.ru/)
   * [Understanding ECMAScript 6. By Nicholas C. Zakas 2018](https://leanpub.com/understandinges6)
+  * [Exploring ES6 by Dr. Axel Rauschmayer](http://exploringjs.com/es6.html)
   * [Eloquent JavaScript 3rd edition. By Marijn Haverbeke 2018](https://eloquentjavascript.net/) (in progress)
   * [JavaScript Fundamentals Handbook. By Flavio Copes 2018](https://flaviocopes.com/javascript/)
   * [JavaScript Pocket Reference, 3rd Edition. By David Flanagan 2012](http://shop.oreilly.com/product/0636920011460.do)
@@ -234,11 +243,6 @@ Specialist degree in Sociology (five years of education) 2011: [part 1](./academ
   * [Head First JavaScript Programming. By Eric T. Freeman, Elisabeth Robson 2014](https://www.amazon.co.uk/Head-First-JavaScript-Programming-Freeman/dp/144934013X/ref=dp_ob_title_bk)
 * JQuery
   * [JQuery in Action. By Bear Bibeault, Yehuda Katz, Aurelio De Rosa 2015](https://books.google.co.uk/books/about/JQuery_in_Action.html?id=vk91oAEACAAJ&source=kp_cover&redir_esc=y) (in progress)
-* OOP
-  * [Mastering JavaScript Object-Oriented Programming by Andrea Chiarelli](https://www.oreilly.com/library/view/mastering-javascript-object-oriented/9781785889103/) (in progress)
-  * [Learning JavaScript Design Patterns. By Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) (in progress)
-  * [Head First Design Patterns. By Bert Bates, Kathy Sierra, Eric Freeman, Elisabeth Robson](http://shop.oreilly.com/product/9780596007126.do) (in progress)
-  * [Design patterns : elements of reusable object-oriented software. By Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides 1994](https://www.amazon.co.uk/Design-patterns-elements-reusable-object-oriented/dp/0201633612) (in progress)
 * Node.js
   * [Node.js Handbook. By Flavio Copes 2018](https://flaviocopes.com/node-javascript-language/)
   * [Node.js in Action. Mike Cantelon, Marc Harter, T.J. Holowaychuk, and Nathan Rajlich Foreword by Isaac Z. Schlueter](https://www.manning.com/books/node-js-in-action) (in progress)
@@ -249,7 +253,6 @@ Specialist degree in Sociology (five years of education) 2011: [part 1](./academ
   * [Code Complete: A Practical Handbook of Software Construction. By Steve McConnell 2004](https://www.amazon.co.uk/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=asap_bc?ie=UTF8) (in progress)
   * [Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin Series). By Robert C. Martin 2008](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
 * Computer Science and Algorithms
-  * [Real-World Algorithms A Beginner's Guide By Panos Louridas 2017](https://mitpress.mit.edu/books/real-world-algorithms) (in progress)
   * [Computer Science Distilled: Learn the Art of Solving Computational Problems. By Wladston Ferreira Filho 2017](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) (in progress)
   * [Grokking Algorithms: An illustrated guide for programmers and other curious people. By Aditya Bhargava 2015](https://www.amazon.co.uk/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=asap_bc?ie=UTF8) (in progress)
 * Vue.js
