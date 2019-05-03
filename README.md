@@ -191,25 +191,32 @@ Specialist degree in Sociology (five years of education) 2011: [part 1](./academ
 ### Courses
 
 * HTML and CSS
-  * [Udemy.com : The Complete Web Developer Course 2.0 2018](https://www.udemy.com/the-complete-web-developer-course-2/) : [certificate]()
   * [Udacity.com : Intro to HTML and CSS 2017](https://www.udacity.com/course/intro-to-html-and-css--ud001) : Free
   * [Udacity.com : Responsive Web Design Fundamentals 2017](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) : Free
   * [Udacity.com : Responsive Images 2017](https://www.udacity.com/course/responsive-images--ud882) : Free
   * [Udemy.com : The Complete Flexbox Tutorial: Learn CSS3 Flexbox in 2018](https://www.udemy.com/flexbox-tutorial/) : [certificate](./certificates_courses/complete_flexbox_tutorial.pdf)
   * [Udemy.com : Bootstrap 4 Quick Start: Code Modern Responsive Websites 2017](https://www.udemy.com/bootstrap-4/) : [certificate](./certificates_courses/bootstrap4_quick_start.pdf)
+  * [Udemy.com : The Complete Web Developer Course 2.0 2018](https://www.udemy.com/the-complete-web-developer-course-2/) (in progress)
 * JavaScript
+  * [OTUS. Разработчик JavaScript 2019](https://otus.ru/lessons/javascript/?int_source=courses_catalog&int_term=programming) (in progress)
   * [JAVASCRIPT.INFO : JavaScript/DOM/Interfaces 2018 (Iliya Kantor)](http://javascript.info/courses/js)
-  * [khanacademy.org : Intro to JS: Drawing & Animation 2018](https://www.khanacademy.org/computing/computer-programming/programming)
+  * [khanacademy.org : Intro to JS: Drawing & Animation 2018](https://www.khanacademy.org/computing/computer-programming/programming) (in progress)
   * [Udemy.com : Build a Complete JQuery Plugin 2017](https://www.udemy.com/build-a-complete-jquery-plugin-image-pop-up-dialog/) : [certificate](./certificates_courses/build_jquery_plugin.pdf)
   * [Udemy.com : Learn jQuery 2017](https://www.udemy.com/draft/591586/) : [certificate](./certificates_courses/learn_jquery.pdf)
+* NodeJS
+  * [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)](https://www.udemy.com/course/nodejs-the-complete-guide/) (in progress)
+* React
+  * [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/) (in progress)
+* MongoDB
+  * [MongoDB - The Complete Developer's Guide](https://www.udemy.com/mongodb-the-complete-developers-guide/) (in progress)
 * Git
   * [Udacity.com : Version Control with Git 2017](https://www.udacity.com/course/version-control-with-git--ud123) : Free
   * [Udacity.com : How to Use Git and GitHub 2017](https://classroom.udacity.com/courses/ud775) : Free
   * [Udacity.com : GitHub & Collaboration 2017](https://classroom.udacity.com/courses/ud456) : Free
-* CLI / Shell and Bash
+* CLI / Bash
   * [Udacity.com : Linux Command Line Basics 2017](https://www.udacity.com/course/linux-command-line-basics--ud595) : Free
 * Others
-  * [Coursera.com : Learning How to Learn 2018](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) : Free
+  * [Coursera.com : Learning How to Learn 2018](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) : Free (in progress)
   * [Udacity.com : Refresh Your Resume 2018](https://classroom.udacity.com/courses/ud243) : Free
 
 ### Read Books
