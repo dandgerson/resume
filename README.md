@@ -1,7 +1,5 @@
 # [![small portrait](./img/small_portrait.jpg)](./img/portrait.jpg)
 
-**( russian | ukrainian )** (in progress)
-
 ## Dmitry G. Anderson
 
 Hello, I'm Dmitry G. Anderson - Software Developer and JavaScript Enthusiast.
