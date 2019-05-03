@@ -168,7 +168,7 @@ If being more precisely, I ideally dream to building cool and complicated web ap
   * > Have there a lot of code examples, solved problems, components, written during the my javascript study from begin to last time. There you can see how growed complexity of solved problems during the time
 * [stackoverflow.com](https://stackoverflow.com/users/7360033/dmitry-g-anderson)
 * [upwork.com](https://www.upwork.com/freelancers/~01d9b90c1ce0ba2e06)
-* [codewars.com](https://www.codewars.com/users/dandgerson) https://www.codewars.com/users/dandgerson/badges/large
+* [codewars.com](https://www.codewars.com/users/dandgerson) ![alt text](https://www.codewars.com/users/dandgerson/badges/small)
   * > Codewars is a community of developers, who are called Code Warriors (or just warriors), that train on improving their development skills. Think of it like a coding dojo - where developers train with each other and help each other get better through practice.
 * [warriorjs.com](https://warriorjs.com/dandgerson)
   * > Are you in need for JavaScript developers? WarriorJS can help you find talent by looking at the players' problem-solving approach and directly reaching out to the best candidates.
