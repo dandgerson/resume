@@ -1,6 +1,6 @@
 # [![small portrait](./img/small_portrait.jpg)](./img/portrait.jpg)
 
-**( russian | ukrainian )** (in development)
+**( russian | ukrainian )** (in progress)
 
 ## Dmitry G. Anderson
 
@@ -9,11 +9,11 @@ I'm in love with JavaScript programming language and building graphical web inte
 
 I want growing up as much faster as its can and if you can load me cool js frontend stuff ***- I'm ready for job!***
 
-If being more precisely, I ideally dream to building cool and complicated Vue.js web interfaces, pumping up my brain with programming hard skills, learn more other cool hard frontend stuff, get awesome middle / senior mentor, and deep dive in cool project surrounded with my like-minded people.
+If being more precisely, I ideally dream to building cool and complicated web apps, pumping up my brain with programming hard skills, learn more other cool hard frontend stuff, get awesome middle / senior mentor, and deep dive in cool project surrounded with my like-minded people.
 
 *[**more about me**](./story.md)*
 
-**one page PDF resume (en | rus | ukr)** (in development)
+**one page PDF resume (en | rus | ukr)** (in progress)
 
 *( if you thinking that you don't hire juniors, just [**read**](https://dev.to/isaacandsuch/if-you-dont-hire-juniors-you-dont-deserve-seniors-48kb?utm_source=Newsletter+Subscribers&utm_campaign=63b22361fd-EMAIL_CAMPAIGN_2018_09_24_18&utm_medium=email&utm_term=0_d8f11d5d1e-63b22361fd-154379453) )*
 
@@ -24,20 +24,16 @@ If being more precisely, I ideally dream to building cool and complicated Vue.js
 | **Hard Skills** | *Soft Skills* | Other Skills |
 | ----------- | ----------- | ------------ |
 | **HTML and template engines** | *English language* | Blind 10-fingers fast typing |
-| **CSS, PostCSS, BEM notation, CSS Modules, Sass(SCSS)** | *Psychology and pedagogy* | Repair of computer equipment, soldering and replacement of hardware electronic components |
+| **CSS, basics of BEM, Sass(SCSS), Bootstrap** | *Psychology and pedagogy* | Repair of computer equipment, soldering and replacement of hardware electronic components |
 | **JavaScript (ES2015+) / AJAX / OOP** | *Professional ethics and etiquette* | Decomposing tech tasks / Time management / Self organizing |
 | **Basics of Nodejs & Express** | *Conflictology* | [workflowy](https://workflowy.com/invite/4eee4f34.emlx) / trello / kanban-like |
-| **Vue.js** | *Public Relations* | Slack / Telegram / Skype |
-| **Basic concepts of functional programming** | *Speech communication* | Google Docs |
+| **Basic concepts of functional programming** | *Public Relations* | Slack / Telegram / Skype |
+| **Basics of TDD with unit tests using Mocha, Chai** | *Speech communication* | Google Docs |
 | **Build systems Webpack, Gulp** | *Psychology of business communication* | |
-| **Basics of dev-ops (build systems, formatting and linting tools, deployment, etc.)** | | |
-| **Basics of testing using Mocha, Chai** | | |
-| **Bootstrap** | | |
 | **Basics of PHP and MySQL** | | |
-| **Wordpress** | | |
+| **Basics of Wordpress** | | |
 | **Git** | | |
-| **CLI / Shell / Bash** | | |
-| **Adobe Photoshop** | | |
+| **CLI / Bash** | | |
 
 ## Experience
 
