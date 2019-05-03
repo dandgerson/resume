@@ -251,7 +251,7 @@ Specialist degree in Sociology (five years of education) 2011: [part 1](./academ
   * [PHP: The "Right" Way. By Phil Sturgeon and Josh Lockhart 2016](https://leanpub.com/phptherightway) (in progress)
 * About programming in general
   * [Code Complete: A Practical Handbook of Software Construction. By Steve McConnell 2004](https://www.amazon.co.uk/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=asap_bc?ie=UTF8) (in progress)
-  * [Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin Series). By Robert C. Martin 2008](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
+  * [Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin Series). By Robert C. Martin 2008](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) (in progress)
 * Computer Science and Algorithms
   * [Computer Science Distilled: Learn the Art of Solving Computational Problems. By Wladston Ferreira Filho 2017](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) (in progress)
   * [Grokking Algorithms: An illustrated guide for programmers and other curious people. By Aditya Bhargava 2015](https://www.amazon.co.uk/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=asap_bc?ie=UTF8) (in progress)
