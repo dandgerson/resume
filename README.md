@@ -220,7 +220,7 @@ Specialist degree in Sociology (five years of education) 2011: [part 1](./academ
   * [The Modern JavaScript Tutorial. By Iliya Kantor 2018](http://javascript.info/)
   * [Современный учебник Javascript. By Iliya Kantor 2018](http://learn.javascript.ru/)
   * [Understanding ECMAScript 6. By Nicholas C. Zakas 2018](https://leanpub.com/understandinges6)
-  * [Eloquent JavaScript 3rd edition. By Marijn Haverbeke 2018](https://eloquentjavascript.net/)
+  * [Eloquent JavaScript 3rd edition. By Marijn Haverbeke 2018](https://eloquentjavascript.net/) (in progress)
   * [JavaScript Fundamentals Handbook. By Flavio Copes 2018](https://flaviocopes.com/javascript/)
   * [JavaScript Pocket Reference, 3rd Edition. By David Flanagan 2012](http://shop.oreilly.com/product/0636920011460.do)
   * [JavaScript: The Definitive Guide, 6th Edition. By David Flanagan 2011](http://shop.oreilly.com/product/9780596101992.do)
