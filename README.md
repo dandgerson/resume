@@ -226,29 +226,29 @@ Specialist degree in Sociology (five years of education) 2011: [part 1](./academ
   * [JavaScript: The Definitive Guide, 6th Edition. By David Flanagan 2011](http://shop.oreilly.com/product/9780596101992.do)
   * [Head First JavaScript Programming. By Eric T. Freeman, Elisabeth Robson 2014](https://www.amazon.co.uk/Head-First-JavaScript-Programming-Freeman/dp/144934013X/ref=dp_ob_title_bk)
 * JQuery
-  * [JQuery in Action. By Bear Bibeault, Yehuda Katz, Aurelio De Rosa 2015](https://books.google.co.uk/books/about/JQuery_in_Action.html?id=vk91oAEACAAJ&source=kp_cover&redir_esc=y)
-* Vue.js
-  * [The Majesty of Vue.js 2. By Alex Kyriakidis, Kostas Maniatis, and Evan You 2018](https://leanpub.com/vuejs2)
-  * [Vue.js Handbook. By Flavio Copes 2018](https://flaviocopes.com/tags/vue/)
+  * [JQuery in Action. By Bear Bibeault, Yehuda Katz, Aurelio De Rosa 2015](https://books.google.co.uk/books/about/JQuery_in_Action.html?id=vk91oAEACAAJ&source=kp_cover&redir_esc=y) (in progress)
 * OOP
-  * [Design patterns : elements of reusable object-oriented software. By Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides 1994](https://www.amazon.co.uk/Design-patterns-elements-reusable-object-oriented/dp/0201633612)
-  * [Object Thinking (DV-Microsoft Professional). By David West 2004](https://www.amazon.co.uk/Object-Thinking-DV-Microsoft-Professional-David/dp/0735619654)
-  * [Elegant Objects Volume 1. By Egor Bugaenko 2018](https://www.yegor256.com/elegant-objects.html)
-  * [Elegant Objects Volume 2. By Egor Bugaenko 2018](https://www.yegor256.com/elegant-objects.html)
+  * [Mastering JavaScript Object-Oriented Programming by Andrea Chiarelli](https://www.oreilly.com/library/view/mastering-javascript-object-oriented/9781785889103/) (in progress)
+  * [Learning JavaScript Design Patterns. By Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) (in progress)
+  * [Head First Design Patterns. By Bert Bates, Kathy Sierra, Eric Freeman, Elisabeth Robson](http://shop.oreilly.com/product/9780596007126.do) (in progress)
+  * [Design patterns : elements of reusable object-oriented software. By Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides 1994](https://www.amazon.co.uk/Design-patterns-elements-reusable-object-oriented/dp/0201633612) (in progress)
 * Node.js
   * [Node.js Handbook. By Flavio Copes 2018](https://flaviocopes.com/node-javascript-language/)
+  * [Node.js in Action. Mike Cantelon, Marc Harter, T.J. Holowaychuk, and Nathan Rajlich Foreword by Isaac Z. Schlueter](https://www.manning.com/books/node-js-in-action) (in progress)
 * PHP and MySQL
-  * [PHP: The "Right" Way. By Phil Sturgeon and Josh Lockhart 2016](https://leanpub.com/phptherightway)
   * [Learning PHP, MySQL, JavaScript, CSS & HTML5: A Step-by-Step Guide to Creating Dynamic Websites. By Robin Nixon 2014](https://www.amazon.co.uk/Learning-MySQL-JavaScript-HTML5-Step/dp/1491949465)
+  * [PHP: The "Right" Way. By Phil Sturgeon and Josh Lockhart 2016](https://leanpub.com/phptherightway) (in progress)
 * About programming in general
-  * [Code Complete: A Practical Handbook of Software Construction. By Steve McConnell 2004](https://www.amazon.co.uk/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=asap_bc?ie=UTF8)
-  * [Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series). By Robert C. Martin 2017](https://www.amazon.com/gp/product/B075LRM681/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1)
+  * [Code Complete: A Practical Handbook of Software Construction. By Steve McConnell 2004](https://www.amazon.co.uk/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=asap_bc?ie=UTF8) (in progress)
   * [Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin Series). By Robert C. Martin 2008](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
 * Computer Science and Algorithms
-  * [Computer Science Distilled: Learn the Art of Solving Computational Problems. By Wladston Ferreira Filho 2017](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
-  * [Grokking Algorithms: An illustrated guide for programmers and other curious people. By Aditya Bhargava 2015](https://www.amazon.co.uk/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=asap_bc?ie=UTF8)
+  * [Real-World Algorithms A Beginner's Guide By Panos Louridas 2017](https://mitpress.mit.edu/books/real-world-algorithms) (in progress)
+  * [Computer Science Distilled: Learn the Art of Solving Computational Problems. By Wladston Ferreira Filho 2017](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) (in progress)
+  * [Grokking Algorithms: An illustrated guide for programmers and other curious people. By Aditya Bhargava 2015](https://www.amazon.co.uk/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=asap_bc?ie=UTF8) (in progress)
+* Vue.js
+  * [The Majesty of Vue.js 2. By Alex Kyriakidis, Kostas Maniatis, and Evan You 2018](https://leanpub.com/vuejs2) (in progress)
 * Management
-  * [Herding Cats: A Primer for Programmers Who Lead Programmers. By Hank Rainwater 2002](https://www.amazon.co.uk/Herding-Cats-Primer-Programmers-Lead/dp/1590590171)
+  * [Herding Cats: A Primer for Programmers Who Lead Programmers. By Hank Rainwater 2002](https://www.amazon.co.uk/Herding-Cats-Primer-Programmers-Lead/dp/1590590171) (in progress)
 
 ## Contacts
 
