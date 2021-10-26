@@ -176,7 +176,7 @@ If being more precisely, I ideally dream to building cool and complicated web ap
 
 ### Academic Degree
 
-Specialist degree in Sociology (five years of education) 2011: [part 1](./academic_degree/1.jpg), [part 2](./academic_degree/2.jpg), [part 3](./academic_degree/3.jpg), [part 4](./academic_degree/4.jpg)
+Specialist degree in Sociology (five years of education) 2011
 
 ### Qualification Certificates
 
